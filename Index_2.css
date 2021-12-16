@@ -5,6 +5,6 @@ body {
    }
    .fstPage {
     background-image:url("Extras/background.jpg");
-    background-size: 100%;
+
     background-size:cover;
 }
