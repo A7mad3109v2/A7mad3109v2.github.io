@@ -4,12 +4,12 @@ body {
     background-size: 100%;
    }
    .fstPage {
-    background-image:url("Extras/background.jpg");
-    background-size: 100%;
+    background-image:url("Extras/TXT\ BG.jpg");
+    background-size: 15%;
     background-size:cover;
 }
     .fstPage {
-    background-image:url("Extras/TXT\ BG.jpg");
+    background-image:url("Extras/background.jpg");
     background-size: 15%;
     background-size:cover;
 }
