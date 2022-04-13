@@ -8,3 +8,8 @@ body {
     background-size: 100%;
     background-size:cover;
 }
+    .fstPage {
+    background-image:url("Extras/TXT\ BG.jpg");
+    background-size: 15%;
+    background-size:cover;
+}
