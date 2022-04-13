@@ -8,3 +8,7 @@ body {
     background-size: 75%;
     background-size:cover;
 }
+    .button { 
+    height: 50px; 
+    width: 100px; 
+    } 
